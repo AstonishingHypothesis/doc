@@ -1,7 +1,7 @@
 NeuroPhi: analyze neuronal data using PyPhi (IIT)
 =================================================
 
-**NeuroPhi** is open source Python code that can be used to compute consciousness (both level/amount and contents/qualia structure) from neuronal data using `Integrated Information Theory<http://integratedinformationtheory.org/>`_
+**NeuroPhi** is open source Python code that can be used to compute consciousness (both level/amount and contents/qualia structure) from neuronal data using `Integrated Information Theory <http://integratedinformationtheory.org/>`_
 
 It pulls freely available neuronal data from the `DANDI database <https://dandiarchive.org/>`_
 and interfaces with `PyPhi <https://github.com/wmayner/pyphi/>`_.
