@@ -1,8 +1,8 @@
-Welcome to Lumache's documentation!
-===================================
+NeuroPhi: analyze neuronal data using PyPhi (IIT)
+=================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
+**NeuroPhi** (/lu'make/) is open source Python code that can be used to compute consciousness (both its level/amount and its contents/qualia structure) from neuronal data using `Integrated Information Theory<http://integratedinformationtheory.org/`
+
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
